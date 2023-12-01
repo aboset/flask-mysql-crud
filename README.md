@@ -1,0 +1,3 @@
+# flask-mysql-crud
+
+He creado exitosamente un sistema CRUD utilizando Flask, MySQL y Python. Este proyecto me ha permitido desarrollar una aplicación web dinámica y robusta, capaz de realizar operaciones básicas de creación, lectura, actualización y eliminación de datos en una base de datos MySQL. Mediante el uso del framework Flask y el lenguaje de programación Python, he logrado implementar una interfaz intuitiva y amigable para los usuarios, así como una gestión eficiente de la base de datos. Este CRUD se ha convertido en una herramienta fundamental para gestionar y manipular de forma eficiente grandes cantidades de información, brindando una experiencia óptima y funcional tanto para los administradores como para los usuarios finales.
